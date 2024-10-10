@@ -2,6 +2,8 @@
 
 Hirrd is a comprehensive job platform built with React.js and Tailwind CSS to provide a seamless experience for both job seekers and recruiters. It utilizes Shadcn UI for a consistent design, Clerk Authentication for user management, React Hook Forms with Zod validation for user input handling, and Supabase for the backend.
 
+**Live Demo:** [Link to my deployed project](https://hirrd-job-portal.netlify.app/)
+
 ## Features:
 
 - **Landing Page:** Introduces the platform with a title, images, login options, and FAQs.
